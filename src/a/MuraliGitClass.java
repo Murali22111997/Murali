@@ -15,7 +15,7 @@ public class MuraliGitClass {
            $ git remote set-url origin git 
            $ git push -u origin master
            
-           sysout
+           
 		  
 		  */
 		System.out.println("Updated Code ");
