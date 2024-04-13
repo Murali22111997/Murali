@@ -14,8 +14,11 @@ public class MuraliGitClass {
            $ git commit -m "Murali Project Added Successfully"
            $ git remote set-url origin git 
            $ git push -u origin master
+           
+           sysout
 		  
 		  */
+		System.out.println("Updated Code ");
 	}
 
 }
